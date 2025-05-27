@@ -4,6 +4,6 @@
 #
 #
 print (' ')
-print ('hello mac')
+print ('Hello world. Study Unity. It's fun!')
 print (' ')
 
