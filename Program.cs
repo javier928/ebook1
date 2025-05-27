@@ -71,14 +71,14 @@ public class GridForm : Form
         var questions = new (string question, string answer)[]
         {
             ("Madrid es la capital de Espana.", "V"), ///1
-            ("Los objetos en Unity 6 son siempre tridimensionales.", "F"),
+            ("Los objetos en Unity 6 pueden ser tridimensionales.", "V"),
             ("Un script en Unity 6 debe ir siempre asociado a un GameObject","V"),///3
             ("El sol no es un planeta.", "V"),
             ("La función Start() se llama una vez al inicio del juego o de la aplicación.", "V"),///5
             ("La luna es un satélite de la Tierra.", "V"),
             ("Las escenas en Unity 6 son archivos .unity.", "V"),///7
             ("El agua es un líquido a temperatura ambiente.", "V"),
-            ("El lenguaje de programación principal de Unity 6 es C++.", "F"),///9
+            ("El lenguaje de programación principal de Unity 6 es C#.", "V"),///9
             ("La gravedad en la Tierra es de aproximadamente 9.81 m/s².", "V"),
             ("Un prefab en Unity es un objeto que se puede reutilizar en varias escenas.", "V"),///11
             ("La tierra gira alrededor del sol.", "V"),
@@ -90,34 +90,34 @@ public class GridForm : Form
             ("Los materiales en Unity 6 definen cómo se ve la superficie de un objeto.", "V"),
             ("El agua hierve a 100 grados Celsius al nivel del mar.", "V"),///19
             ("El componente Animator se usa para controlar animaciones en Unity 6.", "V"),
-            ("Los GameObjects en Unity 6 no pueden tener más de un componente.", "F"),///21
+            ("Los GameObjects en Unity 6 pueden tener más de un componente.", "V"),///21
             ("El sistema de coordenadas en Unity 6 es tridimensional.", "V"),
-            ("La capital de España es Barcelona.", "F"),///23
+            ("La capital de Portugal es Lisboa.", "V"),///23
             ("Un script en Unity 6 puede ser escrito en C#.", "V"),
             ("El componente Light se usa para iluminar escenas en Unity 6.", "V"),///25
             ("Los océanos cubren aproximadamente el 70% de la superficie de la Tierra.", "V"),
             ("El componente Camera se usa para renderizar la vista del jugador en Unity 6.", "V"),///27
-            ("Los árboles son plantas que no producen oxígeno.", "F"),
+            ("Los árboles son plantas que producen oxígeno.", "V"),
             ("El sistema de partículas se usa para crear efectos visuales como humo y fuego.", "V"),///29
             ("La capital de Alemania es Berlín.", "V"),
             ("Los scripts en Unity 6 pueden interactuar con otros scripts y objetos.", "V"),///31
-            ("El océano Atlántico es el océano más pequeño del mundo.", "F"),
+            ("Las islas Canrias se encuentran en el océano Atlántico.", "V"),
             ("La Tierra es el único planeta conocido que tiene vida.", "V"),///33
             ("El componente AudioSource se usa para reproducir sonidos en Unity 6.", "V"),
             ("La capital de Italia es Roma.", "V"),///35
             ("El sistema de partículas se usa para crear efectos visuales como el fuego.", "V"),
-            ("Los pingüinos pueden volar.", "F"),///37
+            ("Los pingüinos no pueden volar.", "V"),///37
             ("Los GameObjects en Unity 6 pueden tener múltiples componentes.", "V"),
             ("El cielo es azul debido a la dispersión de la luz solar por la atmósfera.", "V"),///39
             ("El componente Transform se usa para mover, rotar y escalar objetos en Unity.", "V"),
-            ("La capital de Francia es Berlín.", "F"),///41
+            ("La capital de Francia es París.", "V"),///41
             ("Un script en Unity puede manejar más de un objeto a la vez.", "V"),
             ("El océano Pacífico es el océano más grande del mundo.", "V"),///43
             ("La Tierra es el tercer planeta del sistema solar.", "V"),
-            ("El mar mas grande del mundo es el Atlantico.", "F"),///45
+            ("Suecia tiene más de cien mil islas.", "V"),///45
             ("El componente AudioSource no puede usarse para reproducir archivos MP3.", "F"),///46
             ("Los GameObjects en Unity 6 pueden tener más de un componente.", "V"),///47
-            ("La capital de Japon es Tokio","V"),///48 
+            ("El monte Fuji está en Japón.","V"),///48 
             ("La función Update() se llama dos veces por frame.", "F"),///49 
             ("El pino canario puede encontrarse en zonas costeras casi a nivel del mar","V")
         };
