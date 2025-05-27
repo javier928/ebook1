@@ -4,8 +4,11 @@ Entre al terminal (command prompt) en Microsoft Windows (debe tener instalado Mi
 utilice las siguientes instrucciones para crear el proyecto EjemploC42:
 
 cd documents
+
 dotnet new winforms -n EjemploC42
+
 cd EjemploC42
+
 code .
 
 Añada el script Program.cs al proyecto creado. Compile el código y haga el test para empezar a familiarizarse con el
