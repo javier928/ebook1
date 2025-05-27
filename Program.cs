@@ -1,4 +1,4 @@
-/// Program.cs   /// EjemploC42. /// Test de n preguntas con msgbox y grid implementados
+/// Program.cs    /// EjemploC42.. /// Test de n preguntas con msgbox y grid implementados
 using System;
 using System.Drawing;
 using System.Runtime.InteropServices;
