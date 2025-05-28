@@ -102,7 +102,7 @@ public class GridForm : Form
             ("La capital de Alemania es Berlín.", "V"),
             ("Los scripts en Unity 6 pueden interactuar con otros scripts y objetos.", "V"),///31
             ("Las islas Canrias se encuentran en el océano Atlántico.", "V"),
-            ("La Tierra es el único planeta conocido que tiene vida.", "V"),///33
+            ("Los sprites son objetos gráficos en 2D que se usan para presentar personajes u objetos.", "V"),///33
             ("El componente AudioSource se usa para reproducir sonidos en Unity 6.", "V"),
             ("La capital de Italia es Roma.", "V"),///35
             ("El sistema de partículas se usa para crear efectos visuales como el fuego.", "V"),
@@ -119,7 +119,7 @@ public class GridForm : Form
             ("Los GameObjects en Unity 6 pueden tener más de un componente.", "V"),///47
             ("El monte Fuji está en Japón.","V"),///48 
             ("La función Update() se llama una vez por frame.", "V"),///49 
-            ("El pino canario puede encontrarse en zonas costeras casi a nivel del mar","V")
+            ("El pino canario puede encontrarse en zonas costeras casi a nivel del mar","V")    // 50
         };
 
         foreach (var (question, correctAnswer) in questions)
