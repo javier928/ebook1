@@ -83,7 +83,7 @@ public class GridForm : Form
             ("Un prefab en Unity es un objeto que se puede reutilizar en varias escenas.", "V"),///11
             ("La tierra gira alrededor del sol.", "V"),
             ("Los colliders en Unity 6 son usados para detectar colisiones entre objetos.", "V"),///13
-            ("Los humanos pueden respirar bajo el agua sin equipo especial.", "F"),
+            ("Los humanos no pueden respirar bajo el agua sin equipo especial.", "V"),
             ("El componente Rigidbody permite a los objetos ser afectados por la física.", "V"),///15
             ("La función Update() se llama una vez por frame.", "V"),
             ("La formula quimica del agua es H2O.", "V"),///17
