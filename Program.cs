@@ -98,11 +98,11 @@ public class GridForm : Form
             ("Los océanos cubren aproximadamente el 70% de la superficie de la Tierra.", "V"),
             ("El componente Camera se usa para renderizar la vista del jugador en Unity 6.", "V"),///27
             ("Los árboles son plantas que producen oxígeno.", "V"),
-            ("El sistema de partículas se usa para crear efectos visuales como humo y fuego.", "V"),///29
+            ("El sistema de partículas se usa para crear efectos visuales como el fuego.", "V"),///29
             ("La capital de Alemania es Berlín.", "V"),
             ("Los scripts en Unity 6 pueden interactuar con otros scripts y objetos.", "V"),///31
             ("Las islas Canrias se encuentran en el océano Atlántico.", "V"),
-            ("Los sprites son objetos gráficos en 2D que se usan para presentar personajes u objetos.", "V"),///33
+            ("Un sprite es un objeto gráfico 2D utlizado para presentar personajes u objetos.", "V"),///33
             ("El componente AudioSource se usa para reproducir sonidos en Unity 6.", "V"),
             ("La capital de Italia es Roma.", "V"),///35
             ("El sistema de partículas se usa para crear efectos visuales como el fuego.", "V"),
