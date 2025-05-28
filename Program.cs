@@ -115,10 +115,10 @@ public class GridForm : Form
             ("El océano Pacífico es el océano más grande del mundo.", "V"),///43
             ("La Tierra es el tercer planeta del sistema solar.", "V"),
             ("Suecia tiene más de cien mil islas.", "V"),///45
-            ("El componente AudioSource no puede usarse para reproducir archivos MP3.", "F"),///46
+            ("El componente AudioSource puede usarse para reproducir archivos MP3.", "V"),///46
             ("Los GameObjects en Unity 6 pueden tener más de un componente.", "V"),///47
             ("El monte Fuji está en Japón.","V"),///48 
-            ("La función Update() se llama dos veces por frame.", "F"),///49 
+            ("La función Update() se llama una vez por frame.", "V"),///49 
             ("El pino canario puede encontrarse en zonas costeras casi a nivel del mar","V")
         };
 
