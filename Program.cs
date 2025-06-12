@@ -70,12 +70,15 @@ public class GridForm : Form
 
         var questions = new (string question, string answer)[]
         {
-            ("Madrid es la capital de Espana.", "V"), ///1
+            ///("Madrid es la capital de Espana.", "V"), ///1
+            ("Compilar un proyecto Unity para crear un archivo .exe implica. . .", "V"), ///1
             ("Los objetos en Unity 6 pueden ser tridimensionales.", "V"),
             ("Un script en Unity 6 debe ir siempre asociado a un GameObject","V"),///3
-            ("El sol no es un planeta.", "V"),
+            ///("El sol no es un planeta.", "V"),
+            ("Unity 6 permite generar un BUILD para Microsoft Windows 10 o Android. . .", "V"),
             ("La función Start() se llama una vez al inicio del juego o de la aplicación.", "V"),///5
-            ("La luna es un satélite de la Tierra.", "V"),
+            ("Un BUILD hecho para Android -archivo .apk y librerías- permite. . ."V"),
+            ///("La luna es un satélite de la Tierra.", "V"),
             ("Las escenas en Unity 6 son archivos .unity.", "V"),///7
             ("El agua es un líquido a temperatura ambiente.", "V"),
             ("El lenguaje de programación principal de Unity 6 es C#.", "V"),///9
