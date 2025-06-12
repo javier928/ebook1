@@ -73,7 +73,7 @@ public class GridForm : Form
             ///("Madrid es la capital de Espana.", "V"), ///1
             ("Compilar un proyecto Unity para crear un archivo .exe implica. . .         ", "V"), ///1
             ("Los objetos en Unity 6 pueden ser tridimensionales.                        ", "V"),
-            ("Un script en Unity 6 debe ir siempre asociado a un GameObject.             ","V"),///3
+            ("Un script en Unity 6 debe ir siempre asociado a un GameObject.             ", "V"),///3
             ///("El sol no es un planeta.", "V"),
             ("Unity 6 permite generar un BUILD para Microsoft Windows 10 o Android. . .  ", "V"),
             ("La función Start() se llama una vez al inicio del juego o de la aplicación.", "V"),///5
