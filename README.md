@@ -1,13 +1,13 @@
-Cree el proyecto EjemploC42 en VS Code. Para ello, siga estos pasos:
+Cree el proyecto EjemploC420 en VS Code. Para ello, siga estos pasos:
 
 Entre al terminal (command prompt) en Microsoft Windows (debe tener instalado Microsoft C# y Visual Studio Code) y
 utilice las siguientes instrucciones para crear el proyecto EjemploC42:
 
 cd documents
 
-dotnet new winforms -n EjemploC42
+dotnet new winforms -n EjemploC420
 
-cd EjemploC42
+cd EjemploC420
 
 code .
 
