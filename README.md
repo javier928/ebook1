@@ -1,7 +1,7 @@
 Cree el proyecto EjemploC420 en VS Code. Para ello, siga estos pasos:
 
 Entre al terminal (command prompt) en Microsoft Windows (debe tener instalado Microsoft C# y Visual Studio Code) y
-utilice las siguientes instrucciones para crear el proyecto EjemploC42:
+utilice las siguientes instrucciones para crear el proyecto EjemploC420:
 
 cd documents
 
