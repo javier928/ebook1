@@ -1,4 +1,4 @@
-/// Program.cs    /// EjemploC42.. /// Test de n preguntas con msgbox y grid implementados
+/// Program.cs    /// EjemploC420.. /// Test de n preguntas con msgbox y grid implementados
 using System;
 using System.Drawing;
 using System.Runtime.InteropServices;
@@ -71,23 +71,25 @@ public class GridForm : Form
         var questions = new (string question, string answer)[]
         {
             ///("Madrid es la capital de Espana.", "V"), ///1
-            ("Compilar un proyecto Unity para crear un archivo .exe implica. . .         ", "V"), ///1
-            ("Los objetos en Unity 6 pueden ser tridimensionales.                        ", "V"),
-            ("Un script en Unity 6 debe ir siempre asociado a un GameObject.             ", "V"),///3
+            ("1. Compilar un proyecto Unity para crear un archivo .exe implica corregir. . .", "V"), ///1
+            ("2. Los objetos en Unity 6 pueden ser tridimensionales.                        ", "V"),
+            ("3. Un script en Unity 6 debe ir siempre asociado a un GameObject.             ", "V"),///3
             ///("El sol no es un planeta.", "V"),
-            ("Unity 6 permite generar un BUILD para Microsoft Windows 10 o Android. . .  ", "V"),
-            ("La función Start() se llama una vez al inicio del juego o de la aplicación.", "V"),///5
-            ("Un BUILD hecho para Android -archivo .apk y librerías- permite. . .        ", "V"),
+            ("4. Unity 6 permite generar un BUILD para Microsoft Windows 10 o Android. . .  ", "V"),
+            ("5. La función Start() se llama una vez al inicio del juego o de la aplicación.", "V"),///5
+            ("6. Un BUILD hecho para Android -archivo .apk y librerías- permite. . .        ", "V"),
             ///("La luna es un satélite de la Tierra.", "V"),
-            ("Las escenas en Unity 6 son archivos .unity.", "V"),///7
-            ("El agua es un líquido a temperatura ambiente.", "V"),
-            ("El lenguaje de programación principal de Unity 6 es C#.", "V"),///9
-            ("La gravedad en la Tierra es de aproximadamente 9.81 m/s².", "V"),
-            ("Un prefab en Unity es un objeto que se puede reutilizar en varias escenas.", "V"),///11
+            ("7. Las escenas en Unity 6 son archivos .unity.", "V"),///7
+            ("8. Un script es un componente que puede ser adjuntado a un. . .               ", "V"),
+            ///("El agua es un líquido a temperatura ambiente.", "V"),
+            ("9. El lenguaje de programación principal de Unity 6 es C#.                    ", "V"),///9
+            ///("La gravedad en la Tierra es de aproximadamente 9.81 m/s².", "V"),
+            ("10.Un script puede añadir comportamiento y lógica a los objetos de una. . .   ", "V"),
+            ("Un prefab en Unity es un objeto que se puede reutilizar en varias escenas. ", "V"),///11
             ("La tierra gira alrededor del sol.", "V"),
             ("Los colliders en Unity 6 son usados para detectar colisiones entre objetos.", "V"),///13
             ("Los humanos no pueden respirar bajo el agua sin equipo especial.", "V"),
-            ("El componente Rigidbody permite a los objetos ser afectados por la física.", "V"),///15
+            ("El componente Rigidbody permite a los objetos ser afectados por la física. ", "V"),///15
             ("La función Update() se llama una vez por frame.", "V"),
             ("La formula quimica del agua es H2O.", "V"),///17
             ("Los materiales en Unity 6 definen cómo se ve la superficie de un objeto.", "V"),
