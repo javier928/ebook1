@@ -1,4 +1,4 @@
-/// Program.cs    /// EjemploC420.. /// Test de n preguntas con msgbox y grid implementados
+/// Program.cs    /// EjemploC4201.. /// Test de n preguntas con msgbox y grid implementados
 using System;
 using System.Drawing;
 using System.Runtime.InteropServices;
@@ -71,7 +71,7 @@ public class GridForm : Form
         var questions = new (string question, string answer)[]
         {
             ///("Madrid es la capital de Espana.", "V"), ///1
-            ("1. Compilar un proyecto Unity para crear un archivo .exe implica corregir. . .", "V"), ///1
+            ("1. Compilar un proyecto Unity requiere. . .", "V"), ///1
             ("2. Los objetos en Unity 6 pueden ser tridimensionales.                        ", "V"),
             ("3. Un script en Unity 6 debe ir siempre asociado a un GameObject.             ", "V"),///3
             ///("El sol no es un planeta.", "V"),
