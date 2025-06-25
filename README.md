@@ -7,7 +7,7 @@ cd documents
 
 dotnet new winforms -n EjemploC4201
 
-cd EjemploC420
+cd EjemploC4201
 
 code .
 
