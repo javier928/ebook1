@@ -11,5 +11,4 @@ cd EjemploC50210
 
 code .
 
-Añada el script Program.cs al proyecto creado. Compile el código y haga el test para empezar a familiarizarse con el
-vocabulario de Unity 6.
+Añada el script Program.cs al proyecto creado. Compile el código y lea el test para empezar a hacer comprobaciones. Alternativamente, puede crear su programa desde cero con Unity 6.
